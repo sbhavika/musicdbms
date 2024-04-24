@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Database System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Music Database System</h1>
+        <form id="musicForm">
+            <input type="text" id="songTitle" placeholder="Song Title" required>
+            <input type="text" id="artist" placeholder="Artist" required>
+            <button type="submit">Add Song</button>
+        </form>
+        <h2>Song List</h2>
+        <ul id="songList"></ul>
+        <h2>Activity History</h2>
+        <ul id="activityList"></ul>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

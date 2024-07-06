@@ -1,1 +1,2 @@
-<img src="https://github.com/sbhavika/sbhavika/blob/main/hello.gif" width="27px">  
+**MUSIC DATABASE MANAGEMENT SYSTEM** :-
+made using Python, MySQL, Tkinter, Anaconda, Jupyter Notebook.
